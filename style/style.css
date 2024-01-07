@@ -1,0 +1,156 @@
+* {
+  margin-bottom: 70px;
+  margin-right: 0px;
+}
+header {
+  width: 1600px;
+  height: 750px;
+  background-repeat: no-repeat;
+  padding: 50px 150px;
+}
+.banner {
+  background-image: url("../B9A1-New-Year-New-Mission/Banner Image.png");
+  background-repeat: no-repeat;
+  width: 1325px;
+  height: 600px;
+}
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+.header1 {
+  color: #fff;
+  text-align: center;
+  font-family: Merriweather;
+  font-size: 35px;
+  font-weight: 400;
+}
+.header1:hover {
+  color: purple;
+}
+.text-color {
+  color: #f4ffdc;
+}
+.black {
+  color: #cdb7f6;
+}
+.black:hover {
+  color: gold;
+}
+.header2 {
+  color: #5e2f70d0;
+  text-align: center;
+  font-size: 72px;
+  font-weight: 900;
+  line-height: 95px;
+  width: 700px;
+  padding-left: 60px;
+}
+.header2:hover {
+  color: purple;
+}
+.main-section {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.section-1 {
+  text-align: center;
+  margin-top: 0;
+}
+.main-section {
+  align-items: center;
+}
+.section-text {
+  text-align: center;
+  padding: 0px 20px 20px 20px;
+}
+.section-img {
+  margin-top: 48px;
+}
+.section-img:hover {
+  background: linear-gradient(to right, rgb(205, 148, 158), rgb(198, 103, 198));
+  border-radius: 30px;
+}
+.section-offer {
+  color: #f00;
+  text-align: center;
+  font-size: 88px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 45px;
+}
+.section-offer:hover {
+  color: black;
+}
+.section-paragraph {
+  color: #f00;
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 45px;
+}
+.section-last {
+  color: #070211;
+  text-align: center;
+  font-size: 48px;
+  font-weight: 700;
+}
+.section-last:hover {
+  color: #6530c7;
+}
+.section-2-bg {
+  background-image: url("../B9A1-New-Year-New-Mission/resources/Vectorrr.png");
+  background-repeat: no-repeat;
+  width: 1325px;
+  height: 600px;
+}
+.section-2 {
+  margin: 30px 140px;
+}
+.section-2-pragraph1 {
+  display: flex;
+  padding: 60px;
+}
+.section-2-header {
+  color: #fff;
+  font-size: 64px;
+  font-weight: 900;
+  line-height: 88px;
+  letter-spacing: 3px;
+}
+.section-2-header-1 {
+  margin-top: 46px;
+}
+.section-2-header:hover {
+  color: goldenrod;
+}
+.section-2-paragraph {
+  color: white;
+  font-family: Inter;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30px;
+  width: 697px;
+}
+.section-2-paragraph:hover {
+  color: black;
+}
+.section-2-button{
+color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+}
+
+
